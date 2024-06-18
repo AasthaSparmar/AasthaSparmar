@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I am Aastha Singh. I am a Full-Stack developer and love writing clean and maintainable code.
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-AasthaSparmar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
+[![Linkedin Badge](https://img.shields.io/badge/-AasthaSparmar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aastha-singh-35874a289)](https://www.linkedin.com/in/aastha-singh-35874a289)
 [![Gmail Badge](https://img.shields.io/badge/-aasthasparmar31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aasthasparmar31@gmail.com)](mailto:aasthasparmar31@gmail.com)
 
 
